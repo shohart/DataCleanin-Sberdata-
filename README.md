@@ -1,5 +1,5 @@
 
-# <center>Очистка данных на Python</center>
+# Очистка данных на Python
 
 ![Очистка данных](./images/data_cleaning.png)
 
